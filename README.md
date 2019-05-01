@@ -1,10 +1,19 @@
 ## Web api 設計與開發_整理
-xml over http
-json over http
-SOAP 
-XML-RPC
-q: 查詢參數
-**OAuth2.0**
+ - xml over http
+ - json over http
+ - SOAP
+ - XML-RPC
+ - q: 查詢參數
+ - **OAuth2.0**
+ - [RFC6838](https://tools.ietf.org/html/rfc6838) 定義自定義media type
+ - [RFC7234](https://tools.ietf.org/html/rfc7234)緩存
+ - [RFC7230](https://tools.ietf.org/html/rfc7230) HTTP1.1
+ - [RFC5789](https://tools.ietf.org/html/rfc5789) patch
+ - [RFC6585](https://tools.ietf.org/html/rfc6585) new status code
+ - [RFC3339](https://tools.ietf.org/html/rfc3339),[RFC1123](https://tools.ietf.org/html/rfc1123) time standard
+ - [RFC6749](https://tools.ietf.org/html/rfc6749) OAuth2.0
+ - [ISO3166](https://zh.wikipedia.org/wiki/ISO_3166) 國家名標準
+ - [ISO639](https://zh.wikipedia.org/wiki/ISO_639) 語言明標準
 
 **主機明和端點共有部分:api**
 ex:
